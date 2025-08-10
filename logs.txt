@@ -1,0 +1,9 @@
+[2025-08-07 09:04:00.831959] Experience: 0.0, Predicted Salary: $25,321.58
+[2025-08-07 09:04:15.966645] Experience: 10.8, Predicted Salary: $127,098.79
+[2025-08-07 09:04:23.004785] Experience: 10.8, Predicted Salary: $127,098.79
+[2025-08-07 09:04:26.076778] Experience: 10.8, Predicted Salary: $127,098.79
+[2025-08-07 09:11:47.165842] Exp: 32.9, Edu: Matric, Skill: Beginner, Predicted: $335,365.11
+[2025-08-07 09:24:05.982808] Exp: 6.7, Edu: Matric, Skill: Beginner, Salary(USD): $88,461.15, Salary(PKR): Rs.25,653,732
+[2025-08-07 09:32:22.845838] Exp: 5.0, Edu: Bachelor's, Skill: Intermediate, Salary(USD): $72,440.66, Salary(PKR): Rs.21,007,791
+[2025-08-07 09:35:38.823234] Exp: 6.0, Edu: Master's, Skill: Intermediate, Salary(USD): $81,864.47, Salary(PKR): Rs.23,740,698
+[2025-08-10 09:08:28.510362] Exp: 5.0, Edu: PhD, Skill: Advanced, Salary(USD): $72,440.66, Salary(PKR): Rs.21,007,791
